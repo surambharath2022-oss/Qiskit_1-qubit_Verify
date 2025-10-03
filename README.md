@@ -3,7 +3,7 @@
 This repository contains a simple Qiskit program to verify installation and demonstrate the basics of **quantum circuits** using the **AerSimulator**.
 
 ## 📂 File
-- `Qiskit_1-gubit_Verify.ipynb` → Jupyter notebook with code.
+- `Qiskit_1-qubit_Verify.ipynb` → Jupyter notebook with code.
 
 ## 📝 Program Explanation
 - Creates a **1-qubit quantum circuit**.  
